@@ -1,0 +1,31 @@
+.info-design h5 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.collapse-icons h6 {
+  margin: 5px;
+}
+
+.card-design-true {
+  padding: 10px;
+  margin: 15px;
+  border-left: 5px solid tomato;
+}
+.card-design-false {
+  padding: 10px;
+  margin: 15px;
+}
+.card-design-false:hover {
+  border-left: 5px solid tomato;
+}
+.opencard-design {
+  border-left: 5px solid green;
+}
+
+.collapse-icons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
